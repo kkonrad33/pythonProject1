@@ -1,16 +1,47 @@
-# This is a sample Python script.
+from math import *
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# 1
+# liczba = 1
+# rzeczywista = 2.2
+# napis = 'napis'
+#
+# print (liczba)
+# print (rzeczywista)
+# print (napis)
 
+# 2
+# l1 = 9
+# l2 = 3
+# dodawanie = l1 + l2
+# odjemowanie = l1 - l2
+# dzielenie = l1 / l2
+# potegowanie = l1**l2
+# pierwiaskowanie = (sqrt(l1))
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+# print (dodawanie)
+# print (odjemowanie)
+# print (dzielenie)
+# print (potegowanie)
+# print (pierwiaskowanie)
 
+# 3
+# liczba = 4
+# liczba += 1
+# print (liczba)
+# liczba -= 2
+# print (liczba)
+# liczba *= 2
+# print (liczba)
+# liczba/= 2
+# print (liczba)
+# liczba **= 2
+# print (liczba)
+# liczba %= 2
+# print (liczba)
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+# 4
+# euler = e**10
+# print(euler)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# print(pow(log(5+sin(8)**2),1/6))
+
