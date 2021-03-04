@@ -45,3 +45,34 @@ from math import *
 
 # print(pow(log(5+sin(8)**2),1/6))
 
+#print(floor(3.55))
+#print(ceil(4.80))
+
+#5
+
+#imie = 'KONRAD'
+#nazwisko = 'KISIEL'
+#x = imie.capitalize()
+#y = nazwisko.capitalize()
+#print (x)
+#print (y)
+
+#6
+
+#piosenka = 'thunder, feel the thunder (thunder, thunder, thun-) lightning then the thunder (thunder, th-th-thunder, thunder)'
+#z = piosenka.count('thunder')
+#print(z)
+
+#7
+
+#slowo = 'pies'
+#print(slowo[1])
+#print(slowo[3])
+
+#8
+
+#q = piosenka.split()
+#print(q)
+
+#9
+
